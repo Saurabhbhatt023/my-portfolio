@@ -31,8 +31,8 @@ import portfolio from "../assets/portfolio.png"
             { 
               id :  3 ,
               src : portfolio ,
-              demo: "https://my-portfolio-saurabh.netlify.app",
-              gitcode : "https://github.com/Saurabhbhatt023/Portfolio-React" ,
+              demo: "https://saurabhbhatt-portfolio.netlify.app",
+              gitcode : "https://github.com/Saurabhbhatt023/my-portfolio" ,
             },
             { 
               id : 4  ,
