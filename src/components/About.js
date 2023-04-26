@@ -16,12 +16,15 @@ const About = () => {
       </p>
       <br/> 
       <p> 
+        <ul> 
+      <li>
          JavaScript
          Reactjs
          TypeScript
          Tailwind
-         HTML , Css
-
+         HTML , Css 
+     </li>
+        </ul>
          
       </p>
 
