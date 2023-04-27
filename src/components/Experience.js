@@ -5,6 +5,7 @@ import  Tailwindcss from "../assets/Tailwindcss.png"
 // import reactImg from "../assets/react.png"
 import html from "../assets/html.png"
 import Typescript from "../assets/Typescript.png.jpg"
+import Reactimg from "../assets/react.png"
 
 const Experience = () => {
 
@@ -19,28 +20,35 @@ const Experience = () => {
                  style: "shadow-orange-500"
                
              }  ,
-
              { 
                 id : 2 ,
-                src : Redux ,
-                title : "Redux" ,
-                style: "shadow-violet-500 ",
-            }  ,
-            { 
-                id : 3 ,
-                src : Tailwindcss ,
-                title : "Css" ,
-                style: "shadow-blue-500" ,
-              
-            } ,
-            { 
-                id : 4 ,
                 src : Javascript ,
                 title : "JAVASCRIPT" ,
                 style: " shadow-yellow-500 "
             } ,
             { 
+                id : 3,
+                src : Reactimg ,
+                title : "React" ,
+                style: "shadow-violet-500 ",
+            }  ,
+
+             { 
+                id : 4,
+                src : Redux ,
+                title : "Redux" ,
+                style: "shadow-violet-500 ",
+            }  ,
+            { 
                 id : 5 ,
+                src : Tailwindcss ,
+                title : "Css" ,
+                style: "shadow-blue-500" ,
+              
+            } ,
+           
+            { 
+                id : 6,
                 src : Typescript ,
                 title : "Typescript" ,
                 style: " shadow-yellow-500 "
